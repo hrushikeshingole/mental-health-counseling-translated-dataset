@@ -125,7 +125,7 @@ Changes are tested before submission.
 License
 This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). You are free to share and adapt the dataset, provided you give appropriate credit and distribute any derivative works under the same license.
 Contact
-For questions or feedback, please open an issue on the GitHub repository or contact [your-email@example.com].
+For questions or feedback, please open an issue on the GitHub repository or contact hrushikeshingole75@gmail.com.
 Acknowledgments
 
 The original Counsel Chat dataset for providing the English Q&A pairs.
